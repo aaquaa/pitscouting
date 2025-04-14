@@ -1,6 +1,7 @@
 {
   "$schema": "../schema.json",
   "title": "Pit Scouting",
+  "page_title": "",
   "sections": [
     {
       "name": "Scouting",
