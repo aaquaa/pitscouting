@@ -1,7 +1,6 @@
 {
   "$schema": "../schema.json",
   "title": "Pit Scouting",
-  "page_title": "Pit Scouting",
   "sections": [
     {
       "name": "Scouting",
@@ -17,7 +16,6 @@
           "code": "aewdsafadsas",
           "title": "Drivebase",
           "type": "select",
-          "required": true,
           "choices": {
             "Swerve": "Swerve",
             "Tank": "Tank",
@@ -35,7 +33,6 @@
           "code": "asdfasdfas",
           "title": "Intake Location",
           "type": "select",
-          "required": true,
           "choices": {
             "Ground": "Ground",
             "Station": "Station",
