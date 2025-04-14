@@ -18,6 +18,7 @@
           "title": "Drivebase",
           "type": "select",
           "choices": {
+            "N/A": "",
             "Swerve": "Swerve",
             "Tank": "Tank",
             "Mecanum": "Mecanum",
@@ -26,7 +27,7 @@
         },
         {
           "title": "Size of Drivebase",
-          "type": "number",
+          "type": "text",
           "required": false,
           "code": "adfasfsa"
         },
@@ -35,6 +36,7 @@
           "title": "Intake Location",
           "type": "select",
           "choices": {
+            "N/A": "",
             "Ground": "Ground",
             "Station": "Station",
             "Both": "Both"
@@ -88,6 +90,7 @@
           "type": "select",
           "required": true,
           "choices": {
+            "N/A": "",
             "Park": "Park",
             "Shallow": "Shallow",
             "Deep": "Deep"
